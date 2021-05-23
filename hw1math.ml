@@ -1,4 +1,3 @@
-(*Jeffery Luo 113160868 CSE 216 HW 1*)
 (*2.*)
 type expr =
 	| Const of int
