@@ -1,4 +1,3 @@
-(*Jeffery Luo 113160868 CSE 216 HW 1*)
 (*1a.*)
 let rec pow x n = match n with
         | 0 -> 1
