@@ -1,4 +1,3 @@
-(*Jeffery Luo 113160868 CSE 216 HW 1*)
 (*1*)
 type bool_expr =
 	| Lit of string
